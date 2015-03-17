@@ -1,2 +1,2 @@
 # bloomboard
-Bloomboard
+Bloomboard boilerplate code
